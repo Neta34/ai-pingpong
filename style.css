@@ -1,0 +1,38 @@
+body
+{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+    text-align: center;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid aliceblue;
+}
+
+
+#start, #status, #restart{
+    font-size: 22px;
+}
+
+canvas{
+    border-width: 20px;
+    border-color: aliceblue;
+    box-shadow: 20px, white;
+}
+
+h4{
+    background-color: aliceblue;
+    line-height: 2;
+    margin: 0%;
+}
